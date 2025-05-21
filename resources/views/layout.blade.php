@@ -110,7 +110,7 @@
 <body>
 
     <header>
-        <h1>Student Manjkikkagement System</h1>
+        <h1>Student Mangagement System</h1>
     </header>
 
     <nav>
