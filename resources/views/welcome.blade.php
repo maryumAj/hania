@@ -233,7 +233,7 @@
                 <p>{{ $totalTeachers }}</p>
             </div>
             <div class="card">
-                <h3>Exams Scheduled</h3>
+                <h3>Examss Scheduled</h3>
                 <p>{{ $upcomingExams }} Upcoming</p>
             </div>
             <div class="card">
